@@ -2,6 +2,8 @@
 Live video straming from any RPI camera to pc which is connected in same network.
 
 # Server Side Requirements.
+
+
 1. pip install pillow
 
 
