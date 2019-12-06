@@ -19,7 +19,7 @@ Live video straming from any RPI camera to pc which is connected in same network
 2.find ip addresss of both devices.
 
 
-3.copy the ip address of serves in code.
+3.copy the ip address of server in both code.
 
 
 4.Run server code first
