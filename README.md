@@ -9,6 +9,9 @@ Live video straming from any RPI camera to pc which is connected in same network
 
 2.pip install matplotlib
 
+3.install ffmpeg
+
+4.install opencv
 
 
 # Steps
