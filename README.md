@@ -53,5 +53,8 @@ ffplay rtsp://192.168.43.85:8000/
 
 for more ref: https://raspberry-projects.com/pi/pi-hardware/raspberry-pi-camera/streaming-video-using-vlc-player
 
+3. MJPEG Streamer
+https://www.sigmdel.ca/michel/ha/rpi/streaming_en.html
+
 
 
